@@ -41,7 +41,7 @@ python3 cipherty.py
 
 ## Samples
 <p align="center">
-  <img src="captures/encrypted_view.png" alt="Description of Image" width="500"/>
+  <img src="captures/encrypted_view.png" alt="Description of Image" width="1000"/>
 </p>
 
 ## Annexes
