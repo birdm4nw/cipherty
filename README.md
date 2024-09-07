@@ -38,6 +38,9 @@ pip install -r requirements.txt
 ```bash
 python3 cipherty.py
 ```
+<p align="center">
+  <img src="captures/cipherty_mainworkflow.png" alt="Description of Image" width="1000"/>
+</p>
 
 ## Samples
 <p align="center">
