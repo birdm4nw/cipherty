@@ -57,11 +57,11 @@ python3 cipherty.py
 <table>
   <tr>
     <td style="text-align: center;">
-      <img src="captures/cipherty_fstructure.png" alt="Description of Image 1" style="width: 150px;"/>
+      <img src="captures/cipherty_fstructure.png" alt="Description of Image 1" style="width: 500px;"/>
       <div>Description of Image 1</div>
     </td>
     <td style="text-align: center;">
-      <img src="captures/cipherty_fstructure.png" alt="Description of Image 2" style="width: 150px;"/>
+      <img src="captures/cipherty_fstructure.png" alt="Description of Image 2" style="width: 500px;"/>
       <div>Description of Image 2</div>
     </td>
   </tr>
