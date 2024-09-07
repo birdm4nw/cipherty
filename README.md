@@ -54,17 +54,18 @@ python3 cipherty.py
 </p>
 
 ## Annexes
-<!-- Two images side by side with descriptions underneath -->
-<div style="display: flex; justify-content: center;">
-  <div style="flex: 1; text-align: center; margin-right: 20px;">
-    <img src="captures/cipherty_fstructure.png" alt="Description of Image 1" style="width: 150px;"/>
-    <div>Description of Image 1</div>
-  </div>
-  <div style="flex: 1; text-align: center;">
-    <img src="captures/cipherty_fstructure.png" alt="Description of Image 2" style="width: 150px;"/>
-    <div>Description of Image 2</div>
-  </div>
-</div>
+<table>
+  <tr>
+    <td style="text-align: center;">
+      <img src="captures/cipherty_fstructure.png" alt="Description of Image 1" style="width: 150px;"/>
+      <div>Description of Image 1</div>
+    </td>
+    <td style="text-align: center;">
+      <img src="captures/cipherty_fstructure.png" alt="Description of Image 2" style="width: 150px;"/>
+      <div>Description of Image 2</div>
+    </td>
+  </tr>
+</table>
 
 
 
