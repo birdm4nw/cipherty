@@ -13,8 +13,11 @@ The encryption system is based in the AES (Advanced Encryption Standard) algorit
 ```bash
 pip install -r requirements.txt
 ```
+
 3. Go to the [Mongo Atlas](https://account.mongodb.com/account/login) and create an account in case you hadn't it.
+
 4. Go to **Database Access** option on left bar and configure a new user by assigning a username with a password.
+
 5. Now, click on **Database** option on left bar, go to *Browse Collections* and hit on "Create Database". You will be asked for a database name and collection name.
   **E.g.**
   ```python
