@@ -8,10 +8,10 @@
 The encryption system is based in the AES (Advanced Encryption Standard) algorithm, a symmetric block cipher used by the US government to protect classified information.
 
 ## Features 📖
-- **Encryption**
-- **Decryption**
-- **Shredding**
-- **Encrypted data storage on cloud**
+- **Encryption:** Supports various input file extensions for flexible encryption.
+- **Decryption:** Utilizes a unique key derived from a custom password for secure decryption.
+- **Shredding:** Ensures secure file deletion through data overwriting techniques.
+- **Cloud Storage:** Offers the option to store encrypted files in a native cloud database.
 
 ## Installation ⚙️
 1. Clone the repository
@@ -75,7 +75,6 @@ python3 cipherty.py
   </tr>
 </table>
 
-
-
+---
 
 **Author:** @birdm4nw
