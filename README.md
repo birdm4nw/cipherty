@@ -41,7 +41,7 @@ pip install -r requirements.txt
 
 7. Finally, go to your **lib/db_operations.py** file within the **cipherty** folder and replace your current "Collection name" in line 24, the one configurated in step 5.
 
-## Usage
+## Usage 🔒
 ```bash
 python3 cipherty.py
 ```
@@ -49,7 +49,8 @@ python3 cipherty.py
   <img src="captures/cipherty_mainworkflow.png" alt="Description of Image" width="800"/>
 </p>
 
-## Samples
+## Samples 💻
+
 #### Database view from command line
 <p align="center">
   <img src="captures/cipherty_table.png" alt="Description of Image" width="1000"/>
@@ -60,7 +61,7 @@ python3 cipherty.py
   <img src="captures/encrypted_view.png" alt="Description of Image" width="1000"/>
 </p>
 
-## Annexes
+## Annexes 📎
 <table>
   <tr>
     <td style="text-align: center;">
