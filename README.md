@@ -25,7 +25,7 @@ pip install -r requirements.txt
   Collection name: enc_data
   ```
 
-6. Return to **Database** option, click on "Connect" and finally select "Drivers". Copy the URI you see there and paste it on your MONGO_URI variable (located in .env file):
+6. Return to **Database** option, click on "Connect" and finally select "Drivers". Copy the URI you see there and paste it on your MONGO_URI variable (located in **.env** file):
   ```python
   MONGO_URI=mongodb+srv://USERNAME:PASSWORD@cluster0.mongodb.net/<dbname>?retryWrites=true&w=majority
   MONGO_DB=YOUR_DB_NAME
