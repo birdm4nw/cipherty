@@ -13,21 +13,27 @@ The encryption system is based in the AES (Advanced Encryption Standard) algorit
 pip install -r requirements.txt
 ```
 3. Go to the [Mongo Atlas](https://account.mongodb.com/account/login) and create an account in case you hadn't it.
-4. Go to *Database Access" option on left bar and configure a new user.
-5. Now, click on "Database" option on left bar, go to *Browse Collections* and hit on "Create Database". You will be asked for a database name and collection name.
+4. Go to **Database Access** option on left bar and configure a new user by assigning a username with a password.
+5. Now, click on **Database** option on left bar, go to *Browse Collections* and hit on "Create Database". You will be asked for a database name and collection name.
   **E.g.**
   ```python
   Database name: cipherty
   Collection name: enc_data
   ```
 
+6. Return to **Database** option, click on "Connect" and finally select "Drivers". Copy the URI you see there and paste it on your MONGO_URI variable (located in .env file):
+  ```python
+  MONGO_URI=mongodb+srv://USERNAME:PASSWORD@cluster0.mongodb.net/<dbname>?retryWrites=true&w=majority
+  MONGO_DB=YOUR_DB_NAME
+  ```
+- Do not forget to replace the username and password with the values configurated in step 4.
 
+7. Finally, go to your **lib/db_operations.py** file within the **cipherty** folder and replace your current "Collection name" in line 24, the one configurated in step 5.
 
-
-
-
-6. sdkafkskaksfd
-
+## Usage
+```bash
+python3 cipherty.py
+```
 
 
 **Author:** @birdm4nw
