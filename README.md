@@ -38,6 +38,12 @@ pip install -r requirements.txt
 ```bash
 python3 cipherty.py
 ```
+
+## Samples
+<p align="center">
+  <img src="captures/encrypted_view.png" alt="Description of Image" width="500"/>
+</p>
+
 ## Annexes
 <div style="display: flex; justify-content: center;">
   <img src="captures/cipherty_db.png" alt="Description of Image 1" style="width: 45%; margin-right: 10px;"/>
