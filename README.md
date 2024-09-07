@@ -61,7 +61,7 @@ python3 cipherty.py
       <div>Description of Image 1</div>
     </td>
     <td style="text-align: center;">
-      <img src="captures/cipherty_db.png" alt="Description of Image 2" style="width: 500px;"/>
+      <img src="captures/cipherty_json.png" alt="Description of Image 2" style="width: 500px;"/>
       <div>Description of Image 2</div>
     </td>
   </tr>
