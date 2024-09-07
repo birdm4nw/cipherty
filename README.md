@@ -46,8 +46,14 @@ python3 cipherty.py
 
 ## Annexes
 <div style="display: flex; justify-content: center;">
-  <img src="captures/cipherty_db.png" alt="Description of Image 1" style="width: 45%; margin-right: 10px;"/>
-  <img src="captures/cipherty_json.png" alt="Description of Image 2" style="width: 45%;"/>
+  <figure style="margin-right: 10px;">
+    <img src="captures/cipherty_fstructure.png" alt="Description of Image 1" style="width: 150px;"/>
+    <figcaption>Description of Image 1</figcaption>
+  </figure>
+  <figure>
+    <img src="captures/cipherty_db.png" alt="Description of Image 2" style="width: 150px;"/>
+    <figcaption>Description of Image 2</figcaption>
+  </figure>
 </div>
 
 **Author:** @birdm4nw
