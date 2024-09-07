@@ -43,6 +43,12 @@ python3 cipherty.py
 </p>
 
 ## Samples
+#### Database view from command line
+<p align="center">
+  <img src="captures/cipherty_table.png" alt="Description of Image" width="1000"/>
+</p>
+
+#### Encrypted file content
 <p align="center">
   <img src="captures/encrypted_view.png" alt="Description of Image" width="1000"/>
 </p>
