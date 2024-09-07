@@ -8,6 +8,7 @@ The encryption system is based in the AES (Advanced Encryption Standard) algorit
 
 ## Installation
 1. Clone the repository
+
 2. Go to the cipherty folder and install requirements by running the following command:
 ```bash
 pip install -r requirements.txt
