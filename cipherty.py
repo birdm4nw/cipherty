@@ -152,7 +152,7 @@ def decrypt(password, encrypted_file=None, encrypted_data=None, ftype=None):
         print(f"\n{Fore.GREEN}[+]{Fore.RESET} File successfully decrypted!")
 
     except ValueError:
-        print(errorMessage)
+        print(f"\n{Fore.RED}[!]{Fore.RESET} Invalid password!")
 
     headers_animation("\tCLOSED_PROCESS")
 
